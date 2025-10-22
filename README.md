@@ -3,6 +3,7 @@
 # Objective
 This project was introduced to us at the start of the semester to make a project of our own idea using the Freenove ESP-32 Wrover Ultimate Starter Kit. 
 <img width="347" height="503" alt="image" src="https://github.com/user-attachments/assets/0a36de24-c4fe-4494-85ca-f66990df3db2" />
+
 Over discussions we came up with the idea of creating a clean boost guitar pedal using different sensors to manipulate the settings of the pedal. A clean boost guitar pedal amplifies the sound of the guitar more. The original idea to construct a guitar pedal stemmed from our deconstruction of this Behringer Chorus guitar pedal. We were interested in the components and did research to find a way to build a simpler pedal. 
 # Initial Planning
 
